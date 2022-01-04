@@ -3,7 +3,7 @@
 ## Before using
 To be able to transform, there are some requirements:
 - The source XML needs to be well formed
-- An XLST needs exist
+- An XLST needs to exist
 
 
 ## Online application
